@@ -66,16 +66,17 @@ a {
     margin-right: 25px;
 }
 
-p {
-    font-size: 16px;
-}
-/* End utility classes */
-
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+p {
+    font-size: 16px;
+}
+/* End utility classes */
+
+/* Start content styling */
 .content {
     width: 75%;
     display: inline-block;
