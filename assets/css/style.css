@@ -49,10 +49,6 @@ a {
 }
 /* End header/nav styling */
 
-p {
-    font-size: 16px;
-}
-
 /* Start hero styling */
 .hero {
     height: 800px;
@@ -64,10 +60,16 @@ p {
 }
 /* End hero styling */
 
+/* Start utility classes */
 .float-left {
     float: left;
     margin-right: 25px;
 }
+
+p {
+    font-size: 16px;
+}
+/* End utility classes */
 
 .float-right {
     float: right;
