@@ -138,6 +138,7 @@ p {
 }
 /* End content styling */
 
+/* Start sidebar section styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -196,7 +197,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* End benefits sidebar section styling */
 
 
 .footer {
