@@ -26,7 +26,11 @@ body {
     color: #d9dcd6;
 }
 
+<<<<<<< HEAD
 .header nav {
+=======
+.header nav {
+>>>>>>> 3951465497921bd814313021f92dfe71557211ee
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -34,11 +38,19 @@ body {
     font-size: 20px;
 }
 
+<<<<<<< HEAD
 .header nav ul {
+=======
+.header nav ul {
+>>>>>>> 3951465497921bd814313021f92dfe71557211ee
     list-style-type: none;
 }
 
+<<<<<<< HEAD
 .header nav ul li {
+=======
+.header nav ul li {
+>>>>>>> 3951465497921bd814313021f92dfe71557211ee
     display: inline-block;
     margin-left: 25px;
 }
