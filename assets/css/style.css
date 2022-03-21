@@ -199,7 +199,7 @@ p {
 }
 /* End benefits sidebar section styling */
 
-
+/* Start footer styling */
 .footer {
     padding: 30px;
     clear: both;
@@ -210,3 +210,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* End footer styling */
